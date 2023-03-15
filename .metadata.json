@@ -1,10 +1,10 @@
 [
   {
-    "package": "valuemap",
+    "package": "geodrawr",
     "oncran": true
   },
   {
-    "package": "geodrawr",
+    "package": "valuemap",
     "oncran": true
   }
 ]

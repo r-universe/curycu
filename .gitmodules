@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "valuemap"]
-	path = valuemap
-	url = https://github.com/curycu/valuemap
-	shallow = true
-	registered = true
 [submodule "geodrawr"]
 	path = geodrawr
 	url = https://github.com/curycu/geodrawr
+	shallow = true
+	registered = true
+[submodule "valuemap"]
+	path = valuemap
+	url = https://github.com/curycu/valuemap
 	shallow = true
 	registered = true
